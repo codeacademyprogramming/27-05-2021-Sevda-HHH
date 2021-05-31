@@ -1,0 +1,10 @@
+export const ORDER_ACTIONS = {
+    GET_ORDER: 'GET_ORDER',
+    ADD_ORDER: 'ADD_ORDER'
+}
+
+export const ORDER_STATUS = {
+    CREATED: 'CREATED',
+    IN_PROGRESS: 'IN_PROGRESS',
+    DONE: 'DONE'
+}
